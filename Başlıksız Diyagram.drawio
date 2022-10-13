@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T14:11:46.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pqjUTCYZqM2Apyq2h8Xi" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T14:12:25.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YkvapmOQsOVtUeGNyLT_" version="20.4.0" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="643" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="335.08" y="544.93" width="199.84" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-14" value="&lt;font style=&quot;line-height: 2.8; font-size: 19px;&quot;&gt;M&lt;/font&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;strokeWidth=1;shape=ellipse;aspect=fixed;fontSize=35;strokeColor=#000000;fontColor=#FFFFFF;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="519.93" width="20" height="20" as="geometry" />
+          <mxGeometry x="425" y="519.92" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;direction=west;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="90" height="40" as="geometry" />
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png;strokeColor=#000000;fontSize=7;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="594.93" width="50" height="50.07" as="geometry" />
+        </mxCell>
+        <mxCell id="h8N0ONBmwr-XzzDL2WTR-43" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;T200&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="544.9300000000001" width="30" height="12.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
