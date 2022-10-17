@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T15:37:32.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0Yte47cbqXiscEYRzXeJ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T00:57:25.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bTzuueH8fR2IRWhxfwNX" version="20.4.1" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-43" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;T200&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="544.9300000000001" width="30" height="12.53" as="geometry" />
         </mxCell>
-        <mxCell id="LC8fi5cD7B8NpC0juS6i-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Equipment List&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;Oxygen Sensor Setup&lt;br&gt;&lt;/font&gt;Infrared Light Setup&lt;br&gt;Camera Setup&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LC8fi5cD7B8NpC0juS6i-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Equipment List&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;Oxygen Sensor Setup&lt;br&gt;&lt;/font&gt;Infrared Light Setup&lt;br&gt;Camera Setup&lt;br&gt;Purification Setup&lt;br&gt;Temperature Controller&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="431" width="170" height="199" as="geometry" />
         </mxCell>
       </root>
