@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T22:37:36.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Pi4fxsu10exFfiw22wlA" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T23:30:53.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3PanFTPhNhOrDmH1OxXy" version="20.4.1" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,16 +63,22 @@
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-27" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ESC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="523.6600000000001" width="30" height="12.53" as="geometry" />
         </mxCell>
-        <mxCell id="h8N0ONBmwr-XzzDL2WTR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;fontColor=#000000;" parent="1" source="h8N0ONBmwr-XzzDL2WTR-30" edge="1">
+        <mxCell id="h8N0ONBmwr-XzzDL2WTR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=7;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8N0ONBmwr-XzzDL2WTR-30" edge="1" target="h8N0ONBmwr-XzzDL2WTR-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="619.9975757575758" y="453.66666666666674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="439" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8N0ONBmwr-XzzDL2WTR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=7;fontColor=#000000;" parent="1" source="h8N0ONBmwr-XzzDL2WTR-30" target="h8N0ONBmwr-XzzDL2WTR-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HCRKoA00dpp8l0WTnpJf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#660000;exitX=1;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h8N0ONBmwr-XzzDL2WTR-30" target="h8N0ONBmwr-XzzDL2WTR-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-30" value="Regulator" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.voltage_regulator;strokeColor=#000000;fontSize=19;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620.24" y="431" width="70" height="58" as="geometry" />
+          <mxGeometry x="620" y="416" width="70" height="58" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;fontColor=#000000;" parent="1" source="h8N0ONBmwr-XzzDL2WTR-34" target="h8N0ONBmwr-XzzDL2WTR-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,10 +87,13 @@
           <mxGeometry x="534.92" y="523.66" width="50" height="12.53" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-38" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Infrared Led Projector&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="613.73" width="80" height="22.53" as="geometry" />
+          <mxGeometry x="740" y="431" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="HCRKoA00dpp8l0WTnpJf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#660000;" edge="1" parent="1" source="h8N0ONBmwr-XzzDL2WTR-39" target="HCRKoA00dpp8l0WTnpJf-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png;strokeColor=#000000;fontSize=7;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="594.93" width="50" height="50.07" as="geometry" />
+          <mxGeometry x="610" y="652.4599999999999" width="50" height="50.07" as="geometry" />
         </mxCell>
         <mxCell id="h8N0ONBmwr-XzzDL2WTR-43" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;T200&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="544.9300000000001" width="30" height="12.53" as="geometry" />
@@ -92,11 +101,8 @@
         <mxCell id="LC8fi5cD7B8NpC0juS6i-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Equipment List&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;Oxygen Sensor Setup&lt;br&gt;&lt;/font&gt;Infrared Light Setup&lt;br&gt;Camera Setup&lt;br&gt;Purification Setup&lt;br&gt;Temperature Controller&lt;br&gt;Air Bubbles Remover(may be an Eheim pump)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="431" width="170" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="HCRKoA00dpp8l0WTnpJf-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="690" width="84" height="100.5" as="geometry" />
-        </mxCell>
         <mxCell id="HCRKoA00dpp8l0WTnpJf-2" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#660000&quot; style=&quot;background-color: rgb(255, 255, 255); font-size: 12px;&quot;&gt;NVDIA&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#33FF33;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="720" width="54" height="22.53" as="geometry" />
+          <mxGeometry x="720" y="666.23" width="54" height="22.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
